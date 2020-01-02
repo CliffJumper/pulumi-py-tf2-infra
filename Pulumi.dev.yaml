@@ -1,0 +1,6 @@
+config:
+  aws:profile: <change-me-to-your-aws-profile>
+  aws:region: us-east-2
+  tf2-infra:my_ip: <change-me-to-a-cidr>
+  tf2-infra:vpc_cidr: <change-me-to-a-cidr>
+  tf2-infra:subnet_cidr: <change-me-to-a-cidr>
